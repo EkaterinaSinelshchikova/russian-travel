@@ -1,0 +1,10 @@
+.place__website {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  margin-bottom: 48px;
+}
