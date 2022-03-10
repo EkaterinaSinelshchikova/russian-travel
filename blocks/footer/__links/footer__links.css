@@ -11,5 +11,6 @@
     flex-direction: column;
     min-height: 310px;
     justify-content: space-evenly;
+    text-align: left;
   }
 }
